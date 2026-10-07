@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Gtheory4LLM"]
+	path = Gtheory4LLM
+	url = https://github.com/veronica0206/gtheory4llm
 [submodule "nlpsem"]
 	path = nlpsem
 	url = https://github.com/veronica0206/nlpsem
